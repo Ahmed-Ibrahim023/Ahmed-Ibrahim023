@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**Ahmed-Ibrahim023/Ahmed-Ibrahim023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ahmed Ibrahim 👋
 
-Here are some ideas to get you started:
+### Aspiring Python | Odoo | AI Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a beginner developer passionate about building software solutions, business applications, and AI-powered systems.
+
+I'm continuously learning and developing my skills through practical projects.
+
+## 🚀 Technical Skills
+
+- **Programming:** Python
+- **ERP Development:** Odoo
+- **Database:** PostgreSQL
+- **Backend:** REST APIs, FastAPI
+- **AI:** Artificial Intelligence & LLMs
+- **Tools:** Git, GitHub, Docker
+
+## 🎯 Current Goals
+
+- Develop custom Odoo modules.
+- Build backend applications using Python.
+- Explore AI and machine learning.
+- Build practical software projects.
+
+## 📫 Connect With Me
+
+- LinkedIn: [My LinkedIn](www.linkedin.com/in/ahmed-m-ibrahim-435646351)
+- GitHub: [Ahmed-Ibrahim023](https://github.com/Ahmed-Ibrahim023)
+
+---
+*Always learning. Always building.*
