@@ -1,33 +1,36 @@
-
 # Hi, I'm Ahmed Mohamed Ibrahim 👋
 
 ### Aspiring Python | Odoo | AI Developer
 
-I'm a beginner developer passionate about building software solutions, business applications, and AI-powered systems.
+I'm an aspiring software developer passionate about building practical software solutions, business applications, and AI-powered systems.
 
-I'm continuously learning and developing my skills through practical projects.
+I'm continuously learning and improving my programming skills through hands-on practice and personal projects.
 
-## 🚀 Technical Skills
+## 🛠️ Technical Skills
 
-- **Programming:** Python
+- **Programming Language:** Python
 - **ERP Development:** Odoo
-- **Database:** PostgreSQL
-- **Backend:** REST APIs, FastAPI
-- **AI:** Artificial Intelligence & LLMs
+- **Databases:** PostgreSQL
+- **Backend Development:** FastAPI, REST APIs
+- **AI & Machine Learning:** Currently Learning
 - **Tools:** Git, GitHub, Docker
 
-## 🎯 Current Goals
+## 🎯 Current Focus
 
-- Develop custom Odoo modules.
-- Build backend applications using Python.
-- Explore AI and machine learning.
-- Build practical software projects.
+- Developing custom Odoo modules.
+- Building backend applications using Python.
+- Learning Artificial Intelligence and Machine Learning.
+- Improving software development and problem-solving skills.
+
+## 🚀 Featured Projects
+
+Coming soon! I'm currently working on practical projects to showcase my development skills.
 
 ## 📫 Connect With Me
 
-
-- LinkedIn: [Ahmed Ibrahim](https://www.linkedin.com/in/ahmed-m-ibrahim-435646351/)
-- GitHub: [Ahmed-Ibrahim023](https://github.com/Ahmed-Ibrahim023)
+- **LinkedIn:** [Ahmed Mohamed Ibrahim](https://www.linkedin.com/in/ahmed-m-ibrahim-435646351/)
+- **GitHub:** [Ahmed-Ibrahim023](https://github.com/Ahmed-Ibrahim023)
 
 ---
-*Always learning. Always building.*
+
+*Always learning. Always building. Always improving.*
