@@ -25,7 +25,7 @@ I'm continuously learning and developing my skills through practical projects.
 
 ## 📫 Connect With Me
 
-- LinkedIn: [My LinkedIn](www.linkedin.com/in/ahmed-m-ibrahim-435646351)
+- LinkedIn: [www.linkedin.com/in/ahmed-m-ibrahim-435646351](www.linkedin.com/in/ahmed-m-ibrahim-435646351)
 - GitHub: [Ahmed-Ibrahim023](https://github.com/Ahmed-Ibrahim023)
 
 ---
